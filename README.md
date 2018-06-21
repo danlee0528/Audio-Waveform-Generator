@@ -2,7 +2,8 @@
 A simple audio waveform generator for .wav file
 
 # Description
-The program reads every byte of a .wav audio file into and draws a vertical line for each byte
+The program reads every byte of a .wav audio file into and draws a vertical line for each byte.
+Then it counts the number of sample per byte and displays the total number of samples and the max value among those samples.
 
 # Instruction
 1. Load a .wav audio file using "open" button on the main screen
