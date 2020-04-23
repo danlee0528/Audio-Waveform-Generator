@@ -9,3 +9,6 @@ Then it counts the number of sample per byte and displays the total number of sa
 1. Open "Audio Waveform Generator.jar".
 2. Load a .wav audio file using "open" button on the main screen.
     (The audio file is PCM coded and mono, and the total number of samples should be less than 65536)
+
+# Demo
+<img src="/demo.JPG" width="500">
